@@ -1,0 +1,2 @@
+Valor ingresado: 15
+Resultado: 41

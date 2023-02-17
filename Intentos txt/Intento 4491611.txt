@@ -1,0 +1,2 @@
+Valor ingresado: 100
+Resultado: 1060

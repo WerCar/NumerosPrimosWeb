@@ -1,0 +1,2 @@
+Valor ingresado: a
+Resultado: Valor ingresado no valido para procesar.
